@@ -29,6 +29,7 @@ var circle = (Circle) shape;
 
 
 Boxing and Unboxing
+
 -C# types are divided into two categories: value types and reference types.
 -Value types (eg int, char, bool, all primitive types and struct) are stored in the stack. They have a short life time and as soon as they go out of scope are removed from memory.
 -Reference types (eg all classes) are stored in the heap. 
