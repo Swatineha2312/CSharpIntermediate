@@ -10,7 +10,6 @@ Upcasting and Downcasting -- theoretical concept
 Shape shape = circle; 
 
 -Downcasting requires a cast.
-
 // Downcasting
 Circle circle = (Circle)shape;
 
