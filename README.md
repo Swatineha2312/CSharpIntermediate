@@ -13,7 +13,8 @@ Shape shape = circle;
 // Downcasting
 Circle circle = (Circle)shape;
 
--Casting can throw an exception if the conversion is not successful. We can use the as keyword to prevent this. If conversion is not successful, null is returned. 
+-Casting can throw an exception if the conversion is not successful. We can use the as keyword to prevent this. 
+If conversion is not successful, null is returned. 
 
 Circle circle = shape as Circle;
 if (circle != null) ...
