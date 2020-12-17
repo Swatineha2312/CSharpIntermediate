@@ -2,8 +2,8 @@
 
 Upcasting and Downcasting -- (theoretical concept)
 
--Upcasting: conversion from a derived class to a base class
--Downcasting: conversion from a base class to a derived class
+-Upcasting: conversion from a derived class to a base class.
+-Downcasting: conversion from a base class to a derived class.
 -All objects can be implicitly converted to a base class reference. 
 
 // Upcasting
