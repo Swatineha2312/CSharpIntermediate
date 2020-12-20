@@ -1,7 +1,6 @@
 # CSharpIntermediate
 
 Upcasting and Downcasting -- (theoretical concept)
-
 -Upcasting: conversion from a derived class to a base class.
 -Downcasting: conversion from a base class to a derived class.
 -All objects can be implicitly converted to a base class reference. 
@@ -20,7 +19,6 @@ Circle circle = shape as Circle;
 if (circle != null) ...
 
 -We can also use the is keyword:
-
 if (shape is Circle)
 {    
 var circle = (Circle) shape;
@@ -29,7 +27,6 @@ var circle = (Circle) shape;
 
 
 Boxing and Unboxing
-
 -C# types are divided into two categories: value types and reference types.
 -Value types (eg int, char, bool, all primitive types and struct) are stored in the stack. They have a short life time and as soon as they go out of scope are removed from memory.
 -Reference types (eg all classes) are stored in the heap. 
