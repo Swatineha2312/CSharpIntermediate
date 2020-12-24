@@ -40,6 +40,5 @@ But if you’re dealing with several thousands or tens of thousands of objects, 
 
 // Boxingobject 
 obj = 1; 
-
 // Unboxingint 
 i = (int)obj;
