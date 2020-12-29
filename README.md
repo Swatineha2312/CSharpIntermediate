@@ -1,6 +1,6 @@
 # CSharpIntermediate
 
-CLASSESIntroduction
+CLASSES Introduction
 -Classes are building blocks of software applications. 
 -A class encapsulates data (stored in fields) and behaviour (defined by methods).
 public class Customer 
