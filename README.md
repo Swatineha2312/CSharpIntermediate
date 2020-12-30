@@ -1,6 +1,6 @@
 # CSharpIntermediate
 
-CLASSESIntroduction
+CLASSES Introduction
 -Classes are building blocks of software applications. 
 -A class encapsulates data (stored in fields) and behaviour (defined by methods).
 public class Customer 
@@ -128,7 +128,7 @@ public class Circle : Shape
  }
 }
 -In a derived class, we need to override all abstract members of the base class, otherwise that derived class is going to be abstract too.
--Abstract classes cannot be instantiated
+-Abstract classes cannot be instantiated.
 
 Sealed Classes and Members
 -If applied to a class, prevents derivation from that class.
